@@ -1,0 +1,25 @@
+{
+    "name": "qbclass/elasticsearch-query-builder",
+    "description": "a query builder package for elasticsearch",
+    "type": "library",
+    "keywords": [
+        "elasticsearch","php"
+    ],
+    "require": {
+        "php": "^7.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "qintian0125",
+            "email": "357822274@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Qbclass\\ElasticsearchQuery\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
