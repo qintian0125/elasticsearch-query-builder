@@ -1,6 +1,6 @@
 <?php
 
-namespace Jfxy\ElasticsearchQuery;
+namespace qbclass\ElasticsearchQuery;
 
 use Closure;
 use Exception;
